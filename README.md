@@ -31,3 +31,9 @@ CIFAR-10 dataset is already available in the datasets module of Keras. We do not
 
 # Project Prerequisites:
 The prerequisite to develop and execute image classification project is [Keras and Tensorflow installation](https://data-flair.training/blogs/install-keras-on-linux-windows/).
+
+# Steps
+All the required steps can be referred from source.py or Image_Classification_Cifar-10.ipynb file.
+
+# Results
+The model acheives an accuracy of 84% in just 15 epochs and by visualizing the Classifiaction Accuracy graph it can be estimated that the model can acheive about 90% accuracy if it is trained for 50-60 epochs.
