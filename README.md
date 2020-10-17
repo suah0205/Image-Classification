@@ -30,4 +30,4 @@ This dataset consists of 60,000 images divided into 10 target classes, with each
 CIFAR-10 dataset is already available in the datasets module of Keras. We do not need to download it; we can directly import it from keras.datasets.
 
 # Project Prerequisites:
-The prerequisite to develop and execute image classification project is Keras and Tensorflow installation.
+The prerequisite to develop and execute image classification project is [Keras and Tensorflow installation](https://data-flair.training/blogs/install-keras-on-linux-windows/).
