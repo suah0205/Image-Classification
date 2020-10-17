@@ -28,3 +28,6 @@ This dataset consists of 60,000 images divided into 10 target classes, with each
 10. Truck
 
 CIFAR-10 dataset is already available in the datasets module of Keras. We do not need to download it; we can directly import it from keras.datasets.
+
+# Project Prerequisites:
+The prerequisite to develop and execute image classification project is Keras and Tensorflow installation.
